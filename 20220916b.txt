@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  cd
+    5  pwd
+    6  ps aux
+    7  firefox
+    8  echo $0
+    9  a
+   10  uname
+   11  man uname
+   12  uname -a
+   13  exit
+   14  git clone https://github.com/Ketamins/RTR105
+   15  ls -lt
+   16  git clone https://github.com/Ketamins/RTR105 RTR105_v1
+   17  ls -lt
+   18  rmdir RTR105_v1
+   19  man rmdir
+   20  rmdir RTR105_v1 --ignore-fail-on-non-empty
+   21  ls -lt
+   22  rmdir --ignore-fail-on-non-empty RTR105_v1
+   23  ls -lt
+   24  rm -rf
+   25  rm -rf RTR105_v1
+   26  ls -lt
+   27  git clone https://github.com/Ketamins/RTR105
+   28  ls -lt
+   29  hisory
+   30  history
+   31  history > 20220916a
+   32  history > 20220916a.txt
+   33  cat> 20220916a.txt
+   34  ls - lt
+   35  ls -lt
+   36  cat 
+   37  ls -lt
+   38  cat
+   39  nano 20220916a.txt
+   40  rm 20220916a.txt
+   41  ls - lt
+   42  ls -lt
+   43  rm 20220916a 
+   44  ls -lt
+   45  history
+   46  history>20220916a.txt
+   47  ls -lt
+   48  nano 20220916a.txt 
+   49  mv 20220916a.txt ~/RTR105/
+   50  ls -lt
+   51  ~/RTR105$ pwd
+   52  ~/RTR105 pwd
+   53  pwd
+   54  ~/RTR105$ git config --global user.name Ketamins
+   55  ~/RTR105 git config --global user.name Ketamins
+   56  cd
+   57  cd RTR105
+   58  git config --global user.name Ketamins
+   59  git config --global user.email matiss2908@gmail.com
+   60  git commit -m "3_lekcija"
+   61  git push origin main
+   62  cd ..
+   63  history>20220916b.txt
