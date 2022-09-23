@@ -1,0 +1,48 @@
+    1  pwd
+    2  ls -al
+    3  ls /mnt/
+    4  cd /mnt/c
+    5  ls -al
+    6  cd Users/ketamins/Desktop/
+    7  pwd
+    8  cd Users/matis/Desktop/
+    9  cd Users/matis/OneDrive/Desktop/
+   10  touch test1.txt
+   11  exit
+   12  ls
+   13  pwd
+   14  cd /mnt/c
+   15  ls
+   16  whereis ls
+   17  cd /bin/
+   18  ls -lt
+   19  ls -l
+   20  cd
+   21  pwd
+   22  cd /mnt/c
+   23  ls
+   24  whereis ls
+   25  ls -lt .bin/ls
+   26  ls -lt /bin/ls
+   27  cat /bin/ls
+   28  exit
+   29  cd /mnt/c
+   30  hello-world
+   31  nano hello-world
+   32  sudo nano hello-world
+   33  cd /mnt/c
+   34  nano hello-world
+   35  chmod 744 hello-world
+   36  ./hello-world
+   37  ls -lt
+   38  pwd
+   39  cp hello-world /bin/
+   40  echo $PATH
+   41  PATH=$PATH
+   42  echo $PATH
+   43  PATH=$PATH:/home/user:~:.
+   44  echo $PATH
+   45  hello-world
+   46  echo $PATH
+   47  history
+   48  history > history.txt
