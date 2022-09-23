@@ -1,7 +1,8 @@
 
 #!/bin/bash
-git add . # tiek pieteiktas adreses "uzmanīšanai"
+git add . #tiek pieteiktas adreses "uzmanīšanai"
 git config --global user.name Ketamins
 git config --global user.email matiss2908@gmail.com
-git commit -m "Class_04" 
+#git-commit -m Class_05"
+git commit -m "Class_$1" 
 git push origin main
