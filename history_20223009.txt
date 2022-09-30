@@ -1,0 +1,220 @@
+    1  pwd
+    2  ls -al
+    3  ls /mnt/
+    4  cd /mnt/c
+    5  ls -al
+    6  cd Users/ketamins/Desktop/
+    7  pwd
+    8  cd Users/matis/Desktop/
+    9  cd Users/matis/OneDrive/Desktop/
+   10  touch test1.txt
+   11  exit
+   12  ls
+   13  pwd
+   14  cd /mnt/c
+   15  ls
+   16  whereis ls
+   17  cd /bin/
+   18  ls -lt
+   19  ls -l
+   20  cd
+   21  pwd
+   22  cd /mnt/c
+   23  ls
+   24  whereis ls
+   25  ls -lt .bin/ls
+   26  ls -lt /bin/ls
+   27  cat /bin/ls
+   28  exit
+   29  cd /mnt/c
+   30  hello-world
+   31  nano hello-world
+   32  sudo nano hello-world
+   33  cd /mnt/c
+   34  nano hello-world
+   35  chmod 744 hello-world
+   36  ./hello-world
+   37  ls -lt
+   38  pwd
+   39  cp hello-world /bin/
+   40  echo $PATH
+   41  PATH=$PATH
+   42  echo $PATH
+   43  PATH=$PATH:/home/user:~:.
+   44  echo $PATH
+   45  hello-world
+   46  echo $PATH
+   47  history
+   48  history > history.txt
+   49  git clone https://github.com/Ketamins/RTR105
+   50  pwd
+   51  cd RTR105/
+   52  ls -lt
+   53  `
+   54  ~
+   55  home
+   56  nano git-upload 
+   57  ls -lt
+   58  cd ..
+   59  ls
+   60  pwd
+   61  mv /mnt/c/hello-world /mnt/c/RTR105
+   62  cd RTR105/
+   63  ls -lt
+   64  nano git-upload
+   65  cd ..
+   66  mv /mnt/c/history.txt /mnt/c/RTR105
+   67  cd RTR105/
+   68  ls -lt
+   69  nano git-upload 
+   70  ls -lt
+   71  chmod 744 git-upload 
+   72  history
+   73  git-upload
+   74  exit
+   75  cd /mnt/c
+   76  rm -rf RTR105/
+   77  ls -lt
+   78  cd /mnt/c
+   79  rm -rf RTR105/
+   80  ls -lt
+   81  pwd
+   82  cd RTR105/
+   83  git-upload
+   84  git clone https://github.com/Ketamins/RTR105
+   85  cd RTR105/
+   86  nano linux_special_variables_test.sh
+   87  chmod 744 linux_special_variables_test.sh 
+   88  ./linux_special_variables_test.sh 
+   89  nano linux_special_variables_test.sh 
+   90  ./linux_special_variables_test.sh Pilnigs Mudaks
+   91  nano linux_special_variables_test.sh 
+   92  nano linux_special_variables_test.sh Janis Edgars Roberts
+   93  ./linux_special_variables_test.sh Janis Edgars Roberts
+   94  nano linux_special_variables_test.sh 
+   95  ./linux_special_variables_test.sh Janis Edgars
+   96  nano linux_special_variables_test.sh 
+   97  ./linux_special_variables_test.sh 
+   98  nano linux_special_variables_test.sh 
+   99  ./linux_special_variables_test.sh 
+  100  ls -lt
+  101  nano git-upload
+  102  ls -lt
+  103  nano linux_special_variables_test.sh 
+  104  ./linux_special_variables_test.sh 
+  105  nano git-upload 
+  106  history > history_20220923.txt
+  107  git-upload 05
+  108  git-upload 01
+  109  nano git-upload 
+  110  ls -lt
+  111  ./git-upload 05
+  112  ./git-upload
+  113  ls -lt
+  114  ./linux_special_variables_test.sh 
+  115  cd ..
+  116  cs RTR105/
+  117  cd RTR105/
+  118  ls
+  119  echo $?
+  120  lss
+  121  echo $?
+  122  pwdd
+  123  echo #?
+  124  echo $?
+  125  pwdd
+  126  $?
+  127  pwd
+  128  ls -lt
+  129  echo $PATH
+  130  ./hello-world
+  131  history
+  132  exit
+  133  cd /mnt/c
+  134  git clone https://github.com/Ketamins/RTR105
+  135  cd RTR105/
+  136  ls -lt
+  137  exit
+  138  cd mnt/c
+  139  cd /mnt/c
+  140  pwd4
+  141  pwd
+  142  l -lt
+  143  ls -lt
+  144  git clone https://github.com/Ketamins/RTR105
+  145  rm -rf RTR105
+  146  git clone https://github.com/Ketamins/RTR105
+  147  ls
+  148  cd RTR105/
+  149  mkdir Class_06
+  150  ls -lt
+  151  cd CLass_06
+  152  cat ../hello-world 
+  153  cat .././hello-world 
+  154  nano first.c
+  155  first.c
+  156  cat first.c
+  157  gcc first.c
+  158  sudo apt install gcc
+  159  apt install gcc
+  160  exit
+  161  cd /mnt/c
+  162  ls -lt
+  163  cd RTR105/
+  164  ls -lt
+  165  cd Class_06
+  166  ls -lt
+  167  apt install gcc
+  168  sudo apt install gcc
+  169  passwd [ketamins]
+  170  passwd user
+  171  passwd ketamins
+  172  apt install gcc
+  173  sudo apt install gcc
+  174  gcc first.c
+  175  ls -lt
+  176  gcc first.c -o first.out
+  177  ls -lt
+  178  cd ..
+  179  ls -lt
+  180  nano .gitignore
+  181  cd CLass_06
+  182  nano first.c
+  183  gcc -save-temps first.c -o first.out
+  184  nano first.c
+  185  gcc -save-temps first.c -o first.out
+  186  nano first.c
+  187  gcc -save-temps first.c -o first.out
+  188  nano first.c
+  189  gcc -save-temps first.c -o first.out
+  190  ls -lt
+  191  cat first.i
+  192  nano first.c
+  193  ls -lt
+  194  cat first.out-first.o
+  195  echo $?
+  196  nano first.c
+  197  gcc first.c
+  198  ./a.out
+  199  echo $?
+  200  nano first.c
+  201  echo $?
+  202  nano first.c
+  203  echo $?
+  204  gcc first.c
+  205  echo $?
+  206  ./a.out
+  207  echo $?
+  208  nano first.c
+  209  gcc first.c
+  210  ./a.out
+  211  echo $?
+  212  cat first.c
+  213  echo $?
+  214  nano first.c
+  215  nano .gitignore
+  216  cat .gitignore
+  217  cd ..
+  218  cat .gitignore
+  219  nano .gitignore
+  220  history > history_20223009.txt
