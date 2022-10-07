@@ -1,0 +1,6 @@
+1. Izlasīt stāstu par printf (uzmanīgi izlasīt mājās)
+   https://cplusplus.com/reference/cstdio/printf/
+
+2. Izlasīt stāstu par scanf 
+   https://cplusplus.com/reference/cstdio/scanf/
+
