@@ -1,3 +1,4 @@
+
 //komentāra viena rinda // - apzīmējums kā sākt rakstīt komentāru
 //kometāra cita rinda
 
@@ -13,6 +14,6 @@ int main()
  //
  
  
-
- return 100;
+ return 0;
+ //return 100;
  }

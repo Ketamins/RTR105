@@ -5,4 +5,12 @@
 # 0 "<command-line>" 2
 # 1 "first.c"
 # 10 "first.c"
-main(){}
+int main()
+ {
+
+
+
+
+
+ return 100;
+ }
