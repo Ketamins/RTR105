@@ -1,0 +1,16 @@
+#include<s t d i o . h>
+ #include<math . h>
+
+ void main () {
+ f l o a t a=0. ,b=2∗M_PI, x , delta_x =1.e−2;
+ // f l o a t y ;
+ p r i n t f ( ”\ tx \ t \ t s i n ( x )\ t \ t s i n \ ’( x )\n” ) ;
+ x = a ;
+ while (x<b){
+ //y = s i n ( x ) ;
+ p r i n t f ( ”%10.2 f \ t%10.2 f \ t%10.2 f \n” ,x , s i n ( x ) ,( s i n ( x+delta_x )−s i n ( x ) )/delta_x )
+;
+ // p r i n t f (”%10.2 f \ t%10.2 f \n” , x , y ) ;
+ x += delta_x ; //x = x + delta_x ;
+ }
+
